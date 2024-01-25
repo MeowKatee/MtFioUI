@@ -1,0 +1,5 @@
+[app]
+name = "mtfioui"
+stylized-name = "MtFioUI"
+domain = "users.noreply.github.com"
+template-pack = "egui"
